@@ -1,0 +1,7 @@
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\bin\Debug\sdec2.exe.config
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\bin\Debug\sdec2.exe
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\bin\Debug\sdec2.pdb
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\obj\Debug\sdec4.6.2.csprojAssemblyReference.cache
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\obj\Debug\sdec4.6.2.csproj.CoreCompileInputs.cache
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\obj\Debug\sdec2.exe
+C:\Users\jgood\Desktop\sdec4.6.2\sdec4.6.2\obj\Debug\sdec2.pdb
